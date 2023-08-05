@@ -1,6 +1,6 @@
 # d8dwebplayer
 
-用于定制化 d8dcloud.com ide 的player，包括 pc，mobile
+用于定制化 https://d8dcloud.com ide 的player，包括 pc，mobile
 
 ```sh
 # 初始安装
