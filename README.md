@@ -14,6 +14,12 @@ npm i
 在浏览器输入 
 http://你的域名/play/应用ID
 
+多八多AiIDE开发的 微信小程序UI演示
+
+<img src="https://github.com/zyh320888/d8dwebplayer/assets/107449579/9da44d50-726c-4619-a6c2-b7db9950e69a" width="400">
+
+<img src="https://github.com/zyh320888/d8dwebplayer/assets/107449579/66c035f0-57e9-4f55-bc61-c828457a775a" width="400">
+
 多八多AiIDE开发的 管理后台UI演示
 
 <img src="https://github.com/zyh320888/d8dwebplayer/assets/107449579/1a154602-2aea-4683-a499-0c16f3f0ce4a" width="400">
@@ -22,6 +28,8 @@ http://你的域名/play/应用ID
 多八多AiIDE开发的 后台服务UI演示 
 
 <img src="https://github.com/zyh320888/d8dwebplayer/assets/107449579/107c7159-726c-4734-bf32-c871150a5582" width="200">
+
+<img src="https://github.com/zyh320888/d8dwebplayer/assets/107449579/7a67ee51-7779-4c0f-99bb-f0561302ccee" width="400">
 
 
 多八多AiIDE教程视频
