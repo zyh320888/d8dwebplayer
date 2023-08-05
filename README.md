@@ -14,6 +14,14 @@ npm i
 在浏览器输入 
 http://你的域名/play/应用ID
 
+
+
+这个是react组件的属性配置的格式，如果有自定义的组件贡献的，按这个格式就行
+https://github.com/zyh320888/d8d_project_prompt/blob/main/招聘求职小程序ymI/IDE相关/组件属性格式.js
+
+![image](https://github.com/zyh320888/d8dwebplayer/assets/107449579/7617b82c-1eba-4f4c-973a-c88309d82254)
+
+
 有问题请扫码联系
 
 ![企微二维码](https://d8doss.y2o.me/weworkqrcode.png)
