@@ -16,16 +16,12 @@ export default defineConfig({
         port: 8090,
         proxy: {
             '/v1': {
-                target: 'https://7090.dev.d8dcloud.com',
+                target: 'https://prev2.d8dcloud.com',
                 changeOrigin: true,
             },
             '/api': {
-                target: 'https://7090.dev.d8dcloud.com',
+                target: 'https://prev2.d8dcloud.com',
                 changeOrigin: true,
-                // secure: true,
-                // cookieDomainRewrite: {
-                //     '*': '6dfb173d-12d2-4f5d-941c-9da348b50b9f-8090-public.devstudio.aliyuncs.com'
-                // }
             },
         }
     },
