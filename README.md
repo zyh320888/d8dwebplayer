@@ -21,6 +21,10 @@ https://github.com/zyh320888/d8d_project_prompt/blob/main/招聘求职小程序y
 
 ![image](https://github.com/zyh320888/d8dwebplayer/assets/107449579/7617b82c-1eba-4f4c-973a-c88309d82254)
 
+AI生成提示模块合集
+https://github.com/zyh320888/d8d_project_prompt
+![image](https://github.com/zyh320888/d8dwebplayer/assets/107449579/0c75b64e-36dc-4c7f-8790-f7a02d4daac6)
+
 
 有问题请扫码联系
 
