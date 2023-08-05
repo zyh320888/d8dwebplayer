@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+
+/* //隐藏滚动条 */
+@supports (-moz-appearance:none){.hide-scroll-bar{scrollbar-width:none!important}}
+@supports (-webkit-appearance:none){.hide-scroll-bar::-webkit-scrollbar{display:none!important}}
+.hide-scroll-bar{-ms-overflow-style:none!important}

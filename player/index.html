@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="基于Web自带IDE+编译器，打开网页就能开发；个人和企业免费注册和开发，不限应用数量和使用人数；应用免费导出和私有部署；全场景全应用支持，可开发各类应用、小程序、APP等">
+    <link rel="icon" type="image/x-icon" href="/src/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="keywords" content="多八多D8D,可视化开发,免费IDE,私有部署,低代码,应用开发,小程序开发,APP开发">
+    <title>多八多AiIDE</title>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?92cc528035d96c77d1472db9849e833f";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+        
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+       const CONFIG = {
+            ENV: "dev" ,
+            WWW_V1_HOST: 'https://6dfb173d-12d2-4f5d-941c-9da348b50b9f-8080-public.devstudio.aliyuncs.com/play/8',
+            PRE_V1_API_HOST: 'https://6dfb173d-12d2-4f5d-941c-9da348b50b9f-8080-public.devstudio.aliyuncs.com',
+            PRE_API_HOST: window.location.protocol + '//' + window.location.host,
+            EDIDOR_API_HOST: 'https://editorv2.d8dcloud.com',
+            EDITOR_HOST:'https://editorv2.d8dcloud.com',
+            OSS_HOST:'https://d8doss.y2o.me',
+            ICON_FONT_URL:'//at.alicdn.com/t/c/font_3738943_q3wm8x3upkg.js',
+            
+        };
+    </script>
+    <script type="module" src="./player.jsx"></script>
+  </body>
+</html>
